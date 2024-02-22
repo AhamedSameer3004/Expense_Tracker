@@ -1,0 +1,98 @@
+body {
+  background-image: url('https://w0.peakpx.com/wallpaper/877/382/HD-wallpaper-color-background-surface-solid-full-tv-f-background.jpg');
+  background-size:cover;
+  
+  color: #f8f2f2;
+}
+.App {
+  text-align: center;
+  font-size: larger;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 0px;
+}
+
+.App-header {
+  
+  height: 248px;
+  padding: 20px;
+  color: rgb(243, 238, 238);
+  font-size:xx-large;
+  font-weight: bold;
+}
+
+.App-intro {
+  font-size: medium;
+  /* padding: 45px; */
+}
+.app-modify{
+font-size: small;
+margin-top: -300px;
+}
+.table {
+  margin: 12px auto;
+}
+
+.table-border {
+  color: #fbfbfb;
+  border: 5px solid #579dc3 !important;
+  border: radius 5cap
+  ;
+}
+
+.Add-Button {
+  color: red;
+  width: 6%;
+  margin:20px 0 0 78px;
+}
+
+.descriptionLabel {
+  margin-left: -27px;
+}
+
+.categoryLabel{
+  color: white;
+  margin-left: -10px;
+}
+
+.form {
+  color:white;
+  margin-left: 30%;
+  text-align: right;
+  font-size: 9;
+}
+
+.signupForm {
+  margin: 0 auto;
+}
+
+.signupLabels {
+  float: right;
+}
+
+.select{
+  width: 164px;
+  margin-left: 5px;
+}
+
+.welcomeMessage {
+  text-align: right;
+}
+
+.logoutButton {
+  margin-left: 6px;
+}
+
+.error{
+  color: red;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.inputContainer{
+  margin-left: 70%;
+  width:400px;
+}
